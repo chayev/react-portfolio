@@ -26,5 +26,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Michael Ibragimchayev's Personal Portfolio built using React.",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Michael Ibragimchayev",
+  "license": "MIT"
 }
