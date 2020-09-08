@@ -1,0 +1,124 @@
+{
+  "main": {
+    "name": "Michael Ibragimchayev",
+    "occupation": "Strategic CSM && OneLink Product Specialist @AppsFlyer",
+    "description": "A product-driven customer leader with Fortune 500 SaaS deployment experience.",
+    "image": "avatar.jpeg",
+    "bio": "My name is Michael Ibragimchayev. I currently work at AppsFlyer, a mobile attribution and marketing analytics company headquartered out of Israel. I’m from New York City and am currently based here as well. I spent a very short year living in San Francisco, CA during my time at my previous company Datorama, acquired by Salesforce in 2018.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "michael@chayev.com",
+    "phone": "+17188083982",
+    "address": {
+      "street": "220 5th Ave",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001"
+    },
+    "website": "https://www.chayev.com/",
+    "resumedownload": "assets/Resume_Michael_Ibragimchayev.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/m.i.michael/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/chayev/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/chayev",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "New York University",
+        "degree": "Bachelor of Science in Marketing",
+        "graduated": "December 2013",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "AppsFlyer",
+        "title": "Strategic CSM && OneLink Product Specialist",
+        "years": "October 2018 - Present",
+        "description": "AppsFlyer is the world's leading mobile attribution & marketing analytics platform, helping app marketers around the world make better decisions."
+      },
+      {
+        "company": "Datorama, a Salesforce Company",
+        "title": "Solutions Architect",
+        "years": "July 2015 - September 2018",
+        "description": "Datorama is AI-powered marketing intelligence. Make smarter decisions by connecting and acting on all of your marketing data, investments, and KPIs."
+      }
+    ],
+    "skills": [
+      {
+        "name": "BigQuery",
+        "level": "95%"
+      },
+      {
+        "name": "Golang",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CircleCI",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Gotham",
+        "category": "Gotham is a static site generator that is extremely fast, efficient, and modular.",
+        "image": "gotham.png",
+        "url": "https://github.com/gothamhq"
+      },
+      {
+        "title": "yURL",
+        "category": "yURL is a CLI (Command-Line Interface) and webapp that allows you to validate whether a URL is properly configured.",
+        "image": "yURL.png",
+        "url": "https://github.com/chayev/yurl"
+      },
+      {
+        "title": "OdinLink",
+        "category": "A OneLink API utility. Written in Go.",
+        "image": "odinlink.png",
+        "url": "https://github.com/chayev/odinlink"
+      },
+      {
+        "title": "BetterQuestions",
+        "category": "Built with ReactJS and GoogleSheets as a DB",
+        "image": "betterquestions.png",
+        "url": "https://securitypalhq.com/admin/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Michael is an intelligent, dedicated, and empathetic leader. He possesses the deep technical expertise and combines that with top-notch interpersonal and communication skills to drive a positive impact on product and revenue initiatives.",
+        "user": "Pukar C. Hamal"
+      },
+      {
+        "text": "Working with Michael has been a thrilling experience. Michael has a special talent of effortlessly connecting with and influencing those around him. It's rare to find someone who can combine this ability with Michael's technical expertise and creativity.",
+        "user": "Raymond Reed"
+      }
+    ]
+  }
+}
